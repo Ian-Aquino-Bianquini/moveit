@@ -1,0 +1,52 @@
+[
+  {
+    "type": "body",
+    "description": "tantofaz1",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "tantofaz2",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "tantofaz3",
+    "amount": 10
+  },
+  {
+    "type": "body",
+    "description": "tantofaz4",
+    "amount": 20
+  },
+  {
+    "type": "body",
+    "description": "tantofaz5",
+    "amount": 30
+  },
+  {
+    "type": "eye",
+    "description": "tantofaz6",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "tantofaz7",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "tantofaz8",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "tantofaz9",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "tantofaz10",
+    "amount": 90
+  }
+]
